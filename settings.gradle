@@ -1,0 +1,1 @@
+include ':app', ':mylibrary', ':simplezxing', ':loopview', ':camera', ':video-compressor', ':update-app-kotlin'
